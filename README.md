@@ -5,3 +5,4 @@ Presentations I gave during my studies and not during my studies.
 - [ApproximatingKnapsackAndPartition.pdf]()
 - [ApproximateGraphColouring.pdf]()
 - [CppFacts.pdf]()
+- [SpectraOfGraphs.pdf]()
