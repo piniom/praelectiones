@@ -6,7 +6,7 @@ Presentations I gave during my studies and not during my studies.
 - [ApproximatingKnapsackAndPartition.pdf]()
 - [CategoryTheoryFunctionTypesAndNaturalTransformations.pdf]()
 - [KolmogorovComplexity.pdf]()
-- [PhilosophicalImplicationsOfArtificialIntelligenceAndQuantumPhysics]
+- [PhilosophicalImplicationsOfArtificialIntelligenceAndQuantumPhysics]()
 - [ApproximateGraphColouring.pdf]()
 - [IntervalGraphColouring]()
 - [SpectraOfGraphs.pdf]()
